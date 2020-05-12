@@ -1,5 +1,5 @@
 . Create a folder in your C:\ drive and call it Web-Projects
-. Copy a folder Project0 into Web-Projects folder
+. Copy a   folder Project0 into Web-Projects folder
 . Run home.html on google chrome
 . The website is my personal portfolio and has five pages
 . Contact page that contans a direct link to my email 
